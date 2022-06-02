@@ -1,0 +1,7 @@
+Que es JavaScript?
+  Es el lengauje de la web ya que nos permite añadir interactividad a los sitios web 
+  En Desarrollo Front-End 
+  En Desarrollo Back-End
+  y asi desarrolllar aplicaciones Moviles y de Escritorio. 
+
+ 
