@@ -1,4 +1,4 @@
-/* Variables CONST
+/* TODO: Variables CONST
 
 const = Definimos variables de sólo lectura (no confundir con inmutables), esto quiere decir que, cuando asignamos una variable,
   el nombre de esta va estar asignada a un puntero en memoria, el cual no puede ser sobreescrito o reasignado.
@@ -9,9 +9,18 @@ const = Definimos variables de sólo lectura (no confundir con inmutables), esto
 
 */
 
-
 const cliente = "Boris";
 const precioDescuento = 220;
+
+// No se puede reasignar el valor de la variable con Const
+//FIXME: cliente = 20 ; Como es const marca error en tiempo de ejecución 
+//<<Uncaught TypeError: Assignment to constant variable.>>
+
+//No se pueden iniciar sin valor la variable con Const
+//FIXME: const precio; como es const sin ningun valor marca error en tiempo de ejecución
+// console.log(precio);
+//<<Uncaught SyntaxError: Missing initializer in const declarationUncaught SyntaxError: Missing initializer in const declaration>>
+
 
 console.log(cliente);
 console.log(precioDescuento);
