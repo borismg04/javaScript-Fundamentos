@@ -6,7 +6,6 @@ const = Definimos variables de sólo lectura (no confundir con inmutables), esto
   const = El ámbito o scope para una variable declarada con const es, 
     al igual que con let, el bloque, pero si la declaración con let previene la sobreescritura de variables, 
     const directamente prohíbe la reasignación de valores 
-
 */
 
 const cliente = "Boris";
@@ -24,4 +23,14 @@ const precioDescuento = 220;
 
 console.log(cliente);
 console.log(precioDescuento);
+
+/* REGLAS DE LAS VARIABLES
+
+  VARIABLES = 
+    Las Variables = 
+      No peuden iniciar con numeros o caracteres especiales (Guion bajo (_) si esta permitido en el lenguaje)
+      No pueden tener espacios
+      No pueden tener caracteres especiales
+      JavaScript recomienda el uso de camelCase como buena práctica
+*/ 
 
