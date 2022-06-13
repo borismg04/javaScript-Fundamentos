@@ -55,6 +55,23 @@ console.log("numeroGrande: ",numeroGrande);
 console.log("numeroGrande: ",typeof numeroGrande);
 // Casi nunca se utiliza 
 
+//Symbol (Símbolos)
+// Los símbolos son un tipo de dato especial que no se puede reasignar
+const primerSimbolo = Symbol(30);
+const segundoSimbolo = Symbol(30);
+
+console.log("primerSimbolo: ",primerSimbolo);
+console.log("segundoSimbolo: ",segundoSimbolo);
+console.log(primerSimbolo === segundoSimbolo);//false
+console.log(primerSimbolo.valueOf());
+console.log(segundoSimbolo.valueOf());
+
+//Null (Nulo)
+const nulo = null; // Null es un valor que no tiene ningún valor y siempre es de tipo object
+console.log("nulo: ",nulo);
+console.log("nulo: ",typeof nulo);
+
+
 
 
 
