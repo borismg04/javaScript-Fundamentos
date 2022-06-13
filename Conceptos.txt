@@ -4,4 +4,5 @@ Que es JavaScript?
   En Desarrollo Back-End
   y asi desarrolllar aplicaciones Moviles y de Escritorio. 
 
- 
+JavaScript:Es de tipo dinamico lo que significa que una variable tenga diferentes tipos datos  
+!!! Por la Razón el tipo de dato se almacena en el valor de la variable y no en la variable como tal !!! 
