@@ -37,7 +37,6 @@ const nuevoProducto = {
 }
 
 console.table(nuevoProducto);
-console.log("Nombre del Objeto = ",nuevoProducto.usuario);
 
 //Ejemplo de Object Literal Enhancement
 

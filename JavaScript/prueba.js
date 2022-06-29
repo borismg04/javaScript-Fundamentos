@@ -12,12 +12,6 @@ function App() {
     console.log(responseJSON);
   }
 
-  const handleClick = () => {
-    fetchApi();
-  }
-
-  console.log(todos);
-
   useEffect (() => {
     fetchApi();
   }, [])
