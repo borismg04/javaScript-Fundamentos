@@ -9,3 +9,4 @@ const producto= {
 producto.nombre = 'Monitor Curvo';
 
 console.log(producto);
+console.table(producto);
