@@ -23,4 +23,3 @@ delete producto.disponible;
 
 console.log(producto);
 console.table(producto);
-
