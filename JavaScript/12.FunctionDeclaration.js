@@ -1,0 +1,2 @@
+// Funciones = Function Declaration
+
