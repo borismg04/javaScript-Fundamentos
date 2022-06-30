@@ -29,8 +29,16 @@ const nuevoArreglo = [...tecnologias,'Python','Ruby'];//Agrega un arreglo al fin
 //Reemplazar o Modificar elementos del Array
 // tecnologias[0] = 'REEMPLAZO';//Reemplaza el elemento del arreglo
 
-
+//Este es el mejor metodo para reemplazar elementos
+const newArray = tecnologias.map( function(tech){
+  if(tech === 'JavaScript'){
+    return tech = 'REEMPLAZO';
+  } else {
+    return tech;
+  }
+})
 
 console.table(tecnologias);
 // console.table(nuevoArreglo);
-console.table(nuevoArray);
+// console.table(nuevoArray);
+console.table(newArray);
