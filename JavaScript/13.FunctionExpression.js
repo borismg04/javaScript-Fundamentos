@@ -5,11 +5,10 @@
 // }
 
 //Esta es la forma de definir una funcion
-const sumar = function() {
-  console.log(2 + 2);
+const sumar = function( num1=0, num2=0 ) {
+  return num1 + num2 ;
 }
 
-sumar();
+const resultado = sumar(30);
+console.log('Resultado:', resultado)
 
-console.log(sumar);
-console.log(sumar());
