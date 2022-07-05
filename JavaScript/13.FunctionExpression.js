@@ -11,3 +11,4 @@ const sumar = function() {
 
 sumar();
 
+console.log(sumar);
