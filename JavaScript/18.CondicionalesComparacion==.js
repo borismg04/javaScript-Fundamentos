@@ -18,7 +18,13 @@ if (numero1 === numero2) { // En caso tal se peude transformar el valor de numer
 }
 
 const autenticado = true;
+
+//Ejemplo 1 
 if ( autenticado === true ) {
+  console.log("Si esta Autenticado");
+}
+//Ejemplo 2 Toma la condicion de la variable autenticado como boleeano True o False
+if ( autenticado ) {
   console.log("Si esta Autenticado");
 }
 /**
