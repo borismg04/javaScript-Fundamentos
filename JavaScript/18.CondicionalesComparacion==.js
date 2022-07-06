@@ -23,7 +23,7 @@ const autenticado = true;
 if ( autenticado === true ) {
   console.log("Si esta Autenticado");
 }
-//Ejemplo 2 
+//Ejemplo 2 Toma la condicion de la variable autenticado como boleeano True o False
 if ( autenticado ) {
   console.log("Si esta Autenticado");
 }
