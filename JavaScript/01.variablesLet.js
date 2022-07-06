@@ -14,7 +14,6 @@
   let = Si una variable es declarada con let en el ámbito global o en el de una función,
   la variable pertenecerá al ámbito global o al ámbito de la función respectivamente, 
   de forma similar a como ocurría con var.
-  
 */
 
 

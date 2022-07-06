@@ -1,4 +1,5 @@
 // Iteradores en JS
+
 //Iteradores son funciones que nos permiten recorrer un arreglo
 const tecnologias = ['HTML','CSS','JavaScript','React','NodeJS'];
 

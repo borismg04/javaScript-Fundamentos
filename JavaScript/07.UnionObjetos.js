@@ -11,6 +11,7 @@ const cliente = {
   premium: true,
 }
 
+
 // const nuevoObjeto =Object.assign(producto , cliente); De esta manera se peude pero se modifi9ca el nombre y coje el nombre del cliente
 const nuevoObjeto ={
   producto:{...producto},

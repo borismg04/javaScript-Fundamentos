@@ -11,4 +11,3 @@ const sumar = function( num1=0, num2=0 ) {
 
 const resultado = sumar(30);
 console.log('Resultado:', resultado)
-

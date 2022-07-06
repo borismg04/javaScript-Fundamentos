@@ -11,7 +11,7 @@ if (disponible>=retirar){
     console.log("No hay suficiente dinero");
 }
 
-/**
+/*
  * > mayor que
  * < menor que
  * >= mayor o igual que
@@ -24,3 +24,4 @@ if (disponible>=retirar){
  * || or
  * ! not
  */
+

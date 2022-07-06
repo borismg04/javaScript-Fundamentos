@@ -1,7 +1,6 @@
 /* TODO: Estructuras y Tipos de Datos en JS 
 
   Estructuras =
-
     Undefined = No se ha definido un valor
     Boolean = Verdadero o Falso
     Number = Números enteros y decimales
