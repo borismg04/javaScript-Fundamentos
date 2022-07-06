@@ -10,8 +10,7 @@ if (disponible>=retirar){
   //No se cumple la condicion y no se ejecuta el bloque de codigo
     console.log("No hay suficiente dinero");
 }
-
-/**
+/*
  * > mayor que
  * < menor que
  * >= mayor o igual que

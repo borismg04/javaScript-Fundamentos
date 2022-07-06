@@ -27,7 +27,7 @@ if ( autenticado === true ) {
 if ( autenticado ) {
   console.log("Si esta Autenticado");
 }
-/**
+/*
  * == igual que
  * != diferente que
  * === identico que

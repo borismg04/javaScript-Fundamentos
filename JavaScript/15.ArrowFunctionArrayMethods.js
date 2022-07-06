@@ -14,6 +14,5 @@ const newArray2 = tecnologias.filter( (tech) =>{
   return tech === 'React';//Sola mente me imprime React
 })
 
-
 console.log('newArray:', newArray)
 console.log('newArray2:', newArray2)

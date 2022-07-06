@@ -32,5 +32,6 @@ console.log(precioDescuento);
       No pueden tener espacios
       No pueden tener caracteres especiales
       JavaScript recomienda el uso de camelCase como buena práctica
+      
 */ 
 

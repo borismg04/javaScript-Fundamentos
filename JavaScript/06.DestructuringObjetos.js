@@ -11,6 +11,7 @@ const cliente = {
   premium: true,
 }
 
+
 const { nombre , precio , disponible } = producto;
 const { nombre: nombreCliente , premium } = cliente;
 

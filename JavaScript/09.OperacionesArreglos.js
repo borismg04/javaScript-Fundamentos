@@ -3,7 +3,6 @@
 const tecnologias = ['HTML','CSS','JavaScript','React','NodeJS'];
 
 //Añadir elementos al Array
-
 // tecnologias.push('FINAL');//Agrega un elemento al final del arreglo
 // tecnologias.unshift('INICIO');//Agrega un elemento al inicio del arreglo
 

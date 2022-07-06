@@ -2,7 +2,6 @@
 // Un objeto es una colección de propiedades y métodos.
 // Un objeto es una instancia de una clase.
 
-
 //Forma 1 (mas recomendable) evita escribir las variables
 
 const productos2 = {
