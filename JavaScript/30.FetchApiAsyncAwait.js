@@ -32,7 +32,6 @@ const consultarAPI = async () => {
 //   const responseJSON = await response.json();
 //   console.log(responseJSON);
 //   console.log('Despues de responseJSON');
-
 // }
 
 consultarAPI();
